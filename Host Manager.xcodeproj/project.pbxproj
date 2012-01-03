@@ -161,6 +161,7 @@
 		05AAFEE1132D110700C6CEC8 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastUpgradeCheck = 0420;
 				ORGANIZATIONNAME = eosgarden;
 			};
 			buildConfigurationList = 05AAFEE4132D110700C6CEC8 /* Build configuration list for PBXProject "Host Manager" */;
