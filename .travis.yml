@@ -1,0 +1,3 @@
+language: objective-c
+xcode_project: Host Manager.xcodeproj
+xcode_scheme: Host Manager
